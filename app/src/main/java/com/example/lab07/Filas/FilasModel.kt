@@ -1,9 +1,7 @@
-package com.example.lab07
+package com.example.lab07.Filas
 
 import android.arch.lifecycle.ViewModel
 import android.arch.lifecycle.MutableLiveData
 
-
-class InventarioModel: ViewModel() {
-    
+class FilasModel: ViewModel() {
 }
